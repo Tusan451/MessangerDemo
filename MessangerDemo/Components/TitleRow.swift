@@ -20,6 +20,7 @@ struct TitleRow: View {
                     .cornerRadius(60)
             } placeholder: {
                 ProgressView()
+                    .tint(.white)
             }
             
             VStack(alignment: .leading) {
