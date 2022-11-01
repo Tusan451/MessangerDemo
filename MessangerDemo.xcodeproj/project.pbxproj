@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E01BB5192911100100169511 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E01BB5182911100100169511 /* Extensions.swift */; };
 		E0436FA329103230001CABBD /* MessangerDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0436FA229103230001CABBD /* MessangerDemoApp.swift */; };
 		E0436FA529103230001CABBD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0436FA429103230001CABBD /* ContentView.swift */; };
 		E0436FA729103231001CABBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0436FA629103231001CABBD /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E01BB5182911100100169511 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		E0436F9F29103230001CABBD /* MessangerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MessangerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0436FA229103230001CABBD /* MessangerDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessangerDemoApp.swift; sourceTree = "<group>"; };
 		E0436FA429103230001CABBD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				E0436FB02910365D001CABBD /* Components */,
 				E0436FA629103231001CABBD /* Assets.xcassets */,
 				E0436FA829103231001CABBD /* Preview Content */,
+				E01BB5182911100100169511 /* Extensions.swift */,
 			);
 			path = MessangerDemo;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0436FA529103230001CABBD /* ContentView.swift in Sources */,
+				E01BB5192911100100169511 /* Extensions.swift in Sources */,
 				E0436FB529103FA5001CABBD /* Message.swift in Sources */,
 				E0436FB72910424D001CABBD /* MessageBubble.swift in Sources */,
 				E0436FA329103230001CABBD /* MessangerDemoApp.swift in Sources */,
